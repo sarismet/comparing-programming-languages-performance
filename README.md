@@ -1,6 +1,6 @@
 ## What is the purpose?
 
-I picked the 5 popular programming language and try to predict their performance by implementing a basic isPrime method in each programming languages.
+I picked the 5 popular programming languages and try to predict their performance by implementing a basic isPrime method in each programming languages.
 
 ### C
 
